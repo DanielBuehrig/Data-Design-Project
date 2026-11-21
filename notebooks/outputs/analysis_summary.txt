@@ -1,0 +1,7 @@
+Rows analyzed: 7,413
+Numeric features: 8
+Chosen k: 5
+PC1 + PC2 variance captured: 67.38%
+Overall silhouette: 0.429
+Cluster purity against source categories: 0.134
+Dominant category by cluster: {0: 'BABYFOOD', 1: 'BEEF', 2: 'CEREALS RTE', 3: 'CEREALS RTE', 4: 'OIL'}

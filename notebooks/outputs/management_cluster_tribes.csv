@@ -1,0 +1,6 @@
+Cluster,Size,Highest relative nutrients,Lowest relative nutrients,Top categories,Mean silhouette
+0,2879,Water (+0.85 SD); Fiber (-0.12 SD); Sugar Total (-0.19 SD),Kilocalories (-0.84 SD); Protein (-0.76 SD),BABYFOOD; SOUP; CAMPBELL SOUP COMPANY; BEANS; CEREALS,0.5811142311998966
+1,2550,Protein (+1.05 SD); Fat.Saturated Fat (+0.17 SD); Water (+0.16 SD),Carbohydrate (-0.66 SD); Sugar Total (-0.42 SD),BEEF; PORK; LAMB; CHICKEN; TURKEY,0.37248737090603795
+2,1145,Carbohydrate (+1.48 SD); Fiber (+1.19 SD); Kilocalories (+0.94 SD),Water (-1.40 SD); Fat.Saturated Fat (-0.12 SD),CEREALS RTE; BREAD; CEREALS; No Category; COOKIES,0.19803892309253093
+3,628,Sugar Total (+2.85 SD); Carbohydrate (+1.84 SD); Kilocalories (+1.08 SD),Water (-1.50 SD); Protein (-0.49 SD),CEREALS RTE; CANDIES; COOKIES; ARCHWAY Home Style Cookies; CAKE,0.3908926473828025
+4,211,Fat.Total Lipid (+4.52 SD); Fat.Saturated Fat (+3.55 SD); Kilocalories (+3.21 SD),Water (-1.49 SD); Protein (-0.80 SD),OIL; MARGARINE; PORK; SHORTENING; SALAD DRSNG,0.39340407553437573

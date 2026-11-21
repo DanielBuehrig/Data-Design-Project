@@ -1,0 +1,65 @@
+Feature 1,Feature 2,Correlation,Absolute Correlation
+Data.Kilocalories,Data.Water,-0.8911191411842082,0.8911191411842082
+Data.Kilocalories,Data.Fat.Total Lipid,0.8063015230957725,0.8063015230957725
+Data.Fat.Saturated Fat,Data.Fat.Total Lipid,0.7622887331293271,0.7622887331293271
+Data.Carbohydrate,Data.Water,-0.7566396166297941,0.7566396166297941
+Data.Kilocalories,Data.Fat.Saturated Fat,0.6128581273064287,0.6128581273064287
+Data.Carbohydrate,Data.Sugar Total,0.6009797211839584,0.6009797211839584
+Data.Water,Data.Fat.Total Lipid,-0.4730114195063959,0.4730114195063959
+Data.Carbohydrate,Data.Kilocalories,0.45281145800341854,0.45281145800341854
+Data.Sugar Total,Data.Water,-0.4354096920432839,0.4354096920432839
+Data.Carbohydrate,Data.Fiber,0.4310776424688647,0.4310776424688647
+Data.Fiber,Data.Water,-0.3679348701849746,0.3679348701849746
+Data.Water,Data.Fat.Saturated Fat,-0.3507756383928937,0.3507756383928937
+Data.Kilocalories,Data.Sugar Total,0.28078213127910046,0.28078213127910046
+Data.Carbohydrate,Data.Protein,-0.2518805199208185,0.2518805199208185
+Data.Protein,Data.Sugar Total,-0.22980127413849774,0.22980127413849774
+Data.Fiber,Data.Kilocalories,0.1787435223383025,0.1787435223383025
+Data.Protein,Data.Water,-0.16081813972308281,0.16081813972308281
+Data.Kilocalories,Data.Protein,0.15679402195741227,0.15679402195741227
+Data.Fiber,Data.Sugar Total,0.09648474498015067,0.09648474498015067
+Data.Carbohydrate,Data.Fat.Total Lipid,-0.09439932903336207,0.09439932903336207
+Data.Carbohydrate,Data.Fat.Saturated Fat,-0.08518693326513427,0.08518693326513427
+Data.Fiber,Data.Fat.Saturated Fat,-0.07673768079520428,0.07673768079520428
+Data.Protein,Data.Fat.Total Lipid,0.07246457402890695,0.07246457402890695
+Data.Protein,Data.Fat.Saturated Fat,0.0639600631029325,0.0639600631029325
+Data.Fiber,Data.Protein,-0.03410206222039001,0.03410206222039001
+Data.Sugar Total,Data.Fat.Total Lipid,-0.03315731053543641,0.03315731053543641
+Data.Fiber,Data.Fat.Total Lipid,-0.02976916457559125,0.02976916457559125
+Data.Sugar Total,Data.Fat.Saturated Fat,0.026611115501231096,0.026611115501231096
+Data.Carbohydrate,Data.Carbohydrate,,
+Data.Fiber,Data.Carbohydrate,,
+Data.Fiber,Data.Fiber,,
+Data.Kilocalories,Data.Carbohydrate,,
+Data.Kilocalories,Data.Fiber,,
+Data.Kilocalories,Data.Kilocalories,,
+Data.Protein,Data.Carbohydrate,,
+Data.Protein,Data.Fiber,,
+Data.Protein,Data.Kilocalories,,
+Data.Protein,Data.Protein,,
+Data.Sugar Total,Data.Carbohydrate,,
+Data.Sugar Total,Data.Fiber,,
+Data.Sugar Total,Data.Kilocalories,,
+Data.Sugar Total,Data.Protein,,
+Data.Sugar Total,Data.Sugar Total,,
+Data.Water,Data.Carbohydrate,,
+Data.Water,Data.Fiber,,
+Data.Water,Data.Kilocalories,,
+Data.Water,Data.Protein,,
+Data.Water,Data.Sugar Total,,
+Data.Water,Data.Water,,
+Data.Fat.Saturated Fat,Data.Carbohydrate,,
+Data.Fat.Saturated Fat,Data.Fiber,,
+Data.Fat.Saturated Fat,Data.Kilocalories,,
+Data.Fat.Saturated Fat,Data.Protein,,
+Data.Fat.Saturated Fat,Data.Sugar Total,,
+Data.Fat.Saturated Fat,Data.Water,,
+Data.Fat.Saturated Fat,Data.Fat.Saturated Fat,,
+Data.Fat.Total Lipid,Data.Carbohydrate,,
+Data.Fat.Total Lipid,Data.Fiber,,
+Data.Fat.Total Lipid,Data.Kilocalories,,
+Data.Fat.Total Lipid,Data.Protein,,
+Data.Fat.Total Lipid,Data.Sugar Total,,
+Data.Fat.Total Lipid,Data.Water,,
+Data.Fat.Total Lipid,Data.Fat.Saturated Fat,,
+Data.Fat.Total Lipid,Data.Fat.Total Lipid,,
